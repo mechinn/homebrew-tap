@@ -1,6 +1,6 @@
 class Chntpw < Formula
   desc "Offline Windows Password Editor"
-  homepage "http://pogostick.net/~pnh/ntpasswd/"
+  homepage "https://pogostick.net/~pnh/ntpasswd/"
   url "https://github.com/mechinn/chntpw/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "886d97ed85a0d9c34e1af3e5c861f48fa6c0161530059f553f77168639d3f3a2"
   license all_of: ["LGPL-2.1-only", "GPL-2.0-only"]
